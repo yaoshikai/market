@@ -33,8 +33,9 @@ public class CategoryController {
 
     public void m1(String s1, String s2) {
         System.out.println("this is ysk");
+        System.out.println("this is wwy");
         System.out.println("my name is zhaocaihong");
     }
 
-}
 
+}
