@@ -30,8 +30,11 @@ public class CategoryController {
         return list;
     }
 
-    public void m1(String password, String username, String age) {
+
+    public void m1(String s1, String s2) {
+        System.out.println("this is ysk");
         System.out.println("my name is zhaocaihong");
     }
+
 }
 
