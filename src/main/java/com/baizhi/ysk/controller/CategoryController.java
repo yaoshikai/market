@@ -24,6 +24,7 @@ public class CategoryController {
         System.out.println("你对得起热巴吗=");
         System.out.println("狼图腾");
         List<Category> list = categoryService.queryAll();
+        System.out.println("99999999");
         System.out.println("lallalallalal");
         System.out.println("00000000000000");
         return list;
