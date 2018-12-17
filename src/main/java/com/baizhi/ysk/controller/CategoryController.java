@@ -21,7 +21,7 @@ public class CategoryController {
         System.out.println("苍井空");
         System.out.println("!!!!!!!");
         System.out.println("我是姚世凯");
-        System.out.println("你对得起热巴吗==");
+        System.out.println("你对得起热巴吗=");
         List<Category> list = categoryService.queryAll();
         return list;
     }
