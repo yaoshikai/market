@@ -23,6 +23,7 @@ public class CategoryController {
         System.out.println("我是姚世凯");
         System.out.println("你对得起热巴吗=");
         List<Category> list = categoryService.queryAll();
+        System.out.println("lallalallalal");
         return list;
     }
 }
