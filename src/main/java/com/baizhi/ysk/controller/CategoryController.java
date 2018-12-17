@@ -29,4 +29,9 @@ public class CategoryController {
         System.out.println("00000000000000");
         return list;
     }
+
+    public void m1(String password, String username, String age) {
+        System.out.println("my name is zhaocaihong");
+    }
 }
+
