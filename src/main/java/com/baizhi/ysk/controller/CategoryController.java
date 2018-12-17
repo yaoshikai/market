@@ -17,6 +17,7 @@ public class CategoryController {
     @RequestMapping("queryAllCategory")
     public List<Category> queryAllCategory() {
         System.out.println("那些年我们一起追过的女孩");
+        System.out.println("一起追过的哪个女孩");
         List<Category> list = categoryService.queryAll();
         return list;
     }
